@@ -1,0 +1,14 @@
+.container {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+}
+
+#voting-table,th,td {
+    border: 1px solid black;
+    font-size: 20px;
+}
+
+.total-footer {
+    display: none;
+}
