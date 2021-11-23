@@ -54,8 +54,6 @@ SubdogVoteBtn.addEventListener('click', function(e) {
 });
 
 
-
-
 //created and append cat vote button
 let catVoteBtn = document.createElement('button');
 catVoteBtn.textContent = "Vote for Catto";
